@@ -8,5 +8,5 @@
 #### Results and Feedback: Immediate feedback on quiz performance. Correct answers are highlighted, and users can see their scores.
 
 ## Technical Details:
-#### Frontend: Developed using React for a dynamic user experience.
+#### Frontend: Developed using HTML, CSS, JavaScript and React Framework for a dynamic user experience.
 #### API: RESTful API to manage data flow between the frontend and backend.
